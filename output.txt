@@ -1,4 +1,0 @@
-first num 18, Second 19
-One : 21, Two : 20
-Value :   5
-Value : 18.123
